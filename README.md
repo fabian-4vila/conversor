@@ -1,4 +1,6 @@
 # Conversor de Divisas
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
 Este es un programa simple en Java que te permite convertir entre diferentes divisas utilizando la API ExchangeRate-API
 
 Descripción
@@ -19,7 +21,7 @@ Cómo usar
 Clona o descarga este repositorio en tu máquina local.
 Abre una terminal y navega hasta el directorio donde se encuentra el archivo PrincipalConversor.java.
 Compila el programa ejecutando el siguiente comando:
-# javac PrincipalConversor.java
-Ejecuta el programa con el siguiente comando 
-# java PrincipalConversor
+<i class="fab fa-github"></i> javac PrincipalConversor.java
+Ejecuta el programa con el siguiente comando:
+<i class="fab fa-github"></i>java PrincipalConversor
 Sigue las instrucciones en pantalla para seleccionar la opción de conversión y ingresar el monto que deseas convertir.
