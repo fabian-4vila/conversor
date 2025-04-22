@@ -1,4 +1,6 @@
-![Banner](./A_2D_digital_graphic_features_a_dark-themed_banner.png)
+<p align="center">
+  <img src="./xd.png" alt="Banner" style="max-width: 100%; height: 250px;">
+</p>
 
 # 💱 Conversor de Divisas
 
