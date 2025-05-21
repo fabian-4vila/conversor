@@ -55,9 +55,20 @@ Cada conversión utiliza tasas actualizadas consultadas a través de una API.
 
 ## 🚀 Instalación y ejecución
 
-1. 📥 Clona este repositorio:
+- 📥 Clona este repositorio:
 
 ```bash
 git clone https://github.com/fabian-4vila/conversor.git
 cd conversor
 ```
+- 📦 Compila los archivos:
+
+```bash
+javac src/*.java utils/*.java
+```
+- ▶️ Ejecuta la aplicación:
+
+```bash
+java src.PrinciopalConversor
+```
+Asegúrate de estar en el directorio raíz del proyecto para que los paths funcionen correctamente.
