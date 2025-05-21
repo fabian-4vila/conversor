@@ -69,6 +69,6 @@ javac src/*.java utils/*.java
 - ▶️ Ejecuta la aplicación:
 
 ```bash
-java src.PrinciopalConversor
+java src.PrincipalConversor
 ```
 Asegúrate de estar en el directorio raíz del proyecto para que los paths funcionen correctamente.
