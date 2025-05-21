@@ -58,6 +58,6 @@ Cada conversión utiliza tasas actualizadas consultadas a través de una API.
 1. 📥 Clona este repositorio:
 
 ```bash
-git clone https://github.com/usuario/repositorio.git
-cd repositorio
+git clone https://github.com/fabian-4vila/conversor.git
+cd conversor
 ```
