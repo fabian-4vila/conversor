@@ -53,22 +53,21 @@ Cada conversión utiliza tasas actualizadas consultadas a través de una API.
 - 🌐 **Conexión a Internet** para consultar tasas de cambio
 - 🧰 (Opcional) Un IDE como IntelliJ o VSCode con soporte para Java
 
-## 🚀 Instalación y ejecución
-
-- 📥 Clona este repositorio:
-
+🛠️ Compilación y Ejecución
+1. Clona el repositorio:
 ```bash
-git clone https://github.com/fabian-4vila/conversor.git
+git clone https://github.com/usuario/repositorio.git
 cd conversor
 ```
-- 📦 Compila los archivos:
-
+2. Navega al directorio raíz del código fuente:
 ```bash
-javac src/*.java utils/*.java
+cd src
 ```
-- ▶️ Ejecuta la aplicación:
-
+3. Compila el proyecto (desde src/):
 ```bash
-java src.PrincipalConversor
+javac com/fabianavila/conversorDeDivisas/**/*.java
 ```
-Asegúrate de estar en el directorio raíz del proyecto para que los paths funcionen correctamente.
+4. Ejecuta el programa:
+```bash
+java com.fabianavila.conversorDeDivisas.principal.PrincipalConversor
+```
